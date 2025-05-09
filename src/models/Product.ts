@@ -21,7 +21,7 @@ export class Product {
 
   sell(unit: number): string {
     if (unit > this.quantity) {
-      return "Bhai product to shes. PreOrder den parle";
+      return "Vai product to sesh. PreOrder den parle";
     } else {
       this.quantity -= unit;
     }
