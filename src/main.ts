@@ -1,1 +1,1 @@
-// TypeScript Problems Will Appear Here
+// TypeScript Activities Will Appear Here
