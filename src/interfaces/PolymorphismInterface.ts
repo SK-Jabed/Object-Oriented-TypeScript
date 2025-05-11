@@ -1,1 +1,3 @@
-// Polymorphism
+export interface Purchasable {
+  getStockValue(): number;
+}

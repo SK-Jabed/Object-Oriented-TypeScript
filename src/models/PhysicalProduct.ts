@@ -1,4 +1,4 @@
-import { Purchasable } from "../interfaces/";
+import { Purchasable } from "../interfaces/PolymorphismInterface";
 import { Product } from "./Product";
 
 export class PhysicalProduct extends Product implements Purchasable {
