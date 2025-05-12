@@ -1,2 +1,1 @@
-// TypeScript Activities Will Appear Here
-
+// TypeScript Activities Will be Appear Here
