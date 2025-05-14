@@ -28,6 +28,3 @@ export class Product {
     return `${this.name}have been sold ${unit} units.`;
   }
 }
-
-
-
